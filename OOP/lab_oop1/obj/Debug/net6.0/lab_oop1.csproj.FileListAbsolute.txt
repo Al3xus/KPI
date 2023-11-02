@@ -1,0 +1,14 @@
+C:\cslight\lab_oop1\lab_oop1\bin\Debug\net6.0\lab_oop1.exe
+C:\cslight\lab_oop1\lab_oop1\bin\Debug\net6.0\lab_oop1.deps.json
+C:\cslight\lab_oop1\lab_oop1\bin\Debug\net6.0\lab_oop1.runtimeconfig.json
+C:\cslight\lab_oop1\lab_oop1\bin\Debug\net6.0\lab_oop1.dll
+C:\cslight\lab_oop1\lab_oop1\bin\Debug\net6.0\lab_oop1.pdb
+C:\cslight\lab_oop1\lab_oop1\obj\Debug\net6.0\lab_oop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\cslight\lab_oop1\lab_oop1\obj\Debug\net6.0\lab_oop1.AssemblyInfoInputs.cache
+C:\cslight\lab_oop1\lab_oop1\obj\Debug\net6.0\lab_oop1.AssemblyInfo.cs
+C:\cslight\lab_oop1\lab_oop1\obj\Debug\net6.0\lab_oop1.csproj.CoreCompileInputs.cache
+C:\cslight\lab_oop1\lab_oop1\obj\Debug\net6.0\lab_oop1.dll
+C:\cslight\lab_oop1\lab_oop1\obj\Debug\net6.0\refint\lab_oop1.dll
+C:\cslight\lab_oop1\lab_oop1\obj\Debug\net6.0\lab_oop1.pdb
+C:\cslight\lab_oop1\lab_oop1\obj\Debug\net6.0\lab_oop1.genruntimeconfig.cache
+C:\cslight\lab_oop1\lab_oop1\obj\Debug\net6.0\ref\lab_oop1.dll
