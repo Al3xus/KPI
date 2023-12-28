@@ -1,0 +1,56 @@
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\bin\Debug\net7.0\lab4.exe
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\bin\Debug\net7.0\lab4.deps.json
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\bin\Debug\net7.0\lab4.runtimeconfig.json
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\bin\Debug\net7.0\lab4.dll
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\bin\Debug\net7.0\lab4.pdb
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\obj\Debug\net7.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\obj\Debug\net7.0\lab4.AssemblyInfoInputs.cache
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\obj\Debug\net7.0\lab4.AssemblyInfo.cs
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\obj\Debug\net7.0\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\obj\Debug\net7.0\lab4.dll
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\obj\Debug\net7.0\refint\lab4.dll
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\obj\Debug\net7.0\lab4.pdb
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\obj\Debug\net7.0\lab4.genruntimeconfig.cache
+C:\Users\Едвардос\Desktop\2 курс\oop\lab4\obj\Debug\net7.0\ref\lab4.dll
+C:\Users\Mykola\Desktop\lab4\bin\Debug\net7.0\lab4.exe
+C:\Users\Mykola\Desktop\lab4\bin\Debug\net7.0\lab4.deps.json
+C:\Users\Mykola\Desktop\lab4\bin\Debug\net7.0\lab4.runtimeconfig.json
+C:\Users\Mykola\Desktop\lab4\bin\Debug\net7.0\lab4.dll
+C:\Users\Mykola\Desktop\lab4\bin\Debug\net7.0\lab4.pdb
+C:\Users\Mykola\Desktop\lab4\obj\Debug\net7.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mykola\Desktop\lab4\obj\Debug\net7.0\lab4.AssemblyInfoInputs.cache
+C:\Users\Mykola\Desktop\lab4\obj\Debug\net7.0\lab4.AssemblyInfo.cs
+C:\Users\Mykola\Desktop\lab4\obj\Debug\net7.0\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Mykola\Desktop\lab4\obj\Debug\net7.0\lab4.dll
+C:\Users\Mykola\Desktop\lab4\obj\Debug\net7.0\refint\lab4.dll
+C:\Users\Mykola\Desktop\lab4\obj\Debug\net7.0\lab4.pdb
+C:\Users\Mykola\Desktop\lab4\obj\Debug\net7.0\lab4.genruntimeconfig.cache
+C:\Users\Mykola\Desktop\lab4\obj\Debug\net7.0\ref\lab4.dll
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\bin\Debug\net7.0\lab4.exe
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\bin\Debug\net7.0\lab4.deps.json
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\bin\Debug\net7.0\lab4.runtimeconfig.json
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\bin\Debug\net7.0\lab4.dll
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\bin\Debug\net7.0\lab4.pdb
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\obj\Debug\net7.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\obj\Debug\net7.0\lab4.AssemblyInfoInputs.cache
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\obj\Debug\net7.0\lab4.AssemblyInfo.cs
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\obj\Debug\net7.0\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\obj\Debug\net7.0\lab4.dll
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\obj\Debug\net7.0\refint\lab4.dll
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\obj\Debug\net7.0\lab4.pdb
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\obj\Debug\net7.0\lab4.genruntimeconfig.cache
+C:\Users\Едвардос\Desktop\2 курс\lab4 (4)\lab4\obj\Debug\net7.0\ref\lab4.dll
+C:\КПИ\Ubuntu\lab4\bin\Debug\net7.0\lab4.exe
+C:\КПИ\Ubuntu\lab4\bin\Debug\net7.0\lab4.deps.json
+C:\КПИ\Ubuntu\lab4\bin\Debug\net7.0\lab4.runtimeconfig.json
+C:\КПИ\Ubuntu\lab4\bin\Debug\net7.0\lab4.dll
+C:\КПИ\Ubuntu\lab4\bin\Debug\net7.0\lab4.pdb
+C:\КПИ\Ubuntu\lab4\obj\Debug\net7.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\КПИ\Ubuntu\lab4\obj\Debug\net7.0\lab4.AssemblyInfoInputs.cache
+C:\КПИ\Ubuntu\lab4\obj\Debug\net7.0\lab4.AssemblyInfo.cs
+C:\КПИ\Ubuntu\lab4\obj\Debug\net7.0\lab4.csproj.CoreCompileInputs.cache
+C:\КПИ\Ubuntu\lab4\obj\Debug\net7.0\lab4.dll
+C:\КПИ\Ubuntu\lab4\obj\Debug\net7.0\refint\lab4.dll
+C:\КПИ\Ubuntu\lab4\obj\Debug\net7.0\lab4.pdb
+C:\КПИ\Ubuntu\lab4\obj\Debug\net7.0\lab4.genruntimeconfig.cache
+C:\КПИ\Ubuntu\lab4\obj\Debug\net7.0\ref\lab4.dll
